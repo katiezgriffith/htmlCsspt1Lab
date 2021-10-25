@@ -11,3 +11,9 @@ body {
     padding: 1rem;
     margin: 10px;
 } 
+
+img {
+    height: 20 px;
+    margin: 10 px;
+    border: 5 px solid black;
+}
